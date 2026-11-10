@@ -52,7 +52,7 @@ Atualmente curso o **2º semestre de Análise e Desenvolvimento de Sistemas na U
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **AT1 — Confeitaria Shimas** | Site com cinco páginas em HTML5 e estilos em CSS. | [Ver projeto](./AT1-Paginas-HTML/) |
-| **AT2 — Deploy de Site** | Publicação de site pelo GitHub Pages. | [Documentação](./AT2-Deploy-de-Site/) · [Acessar site](https://caiquesanches07.github.io/S-ndromeProgresso/) |
+| **AT2 — Deploy de Site** | Atividade de publicação com GitHub Pages; endereço fornecido pelo estudante, ainda aguardando confirmação de associação à AT2. | [Documentação](./AT2-Deploy-de-Site/) · [Link informado](https://caiquesanches07.github.io/S-ndromeProgresso/) |
 | **AT3 — Calculadora de IMC** | Aplicação que calcula o IMC a partir do peso e da altura informados e apresenta uma classificação. | [Ver projeto](./AT3-Calculadora-IMC/) |
 | **AT4 — Fase Extra: História dos Videogames** | Site com páginas sobre a história dos videogames, galeria, dados e contato, utilizando Bootstrap. | [Ver documentação](./AT4-Site-Multi-Paginas-Bootstrap/) · [Repositório](https://github.com/Caiquesanches07/historia-videogames) |
 | **AT5 — Síndrome do Progresso Forçado** | Site sobre vigilância algorítmica no trabalho remoto, com páginas informativas, gráfico e alternância de tema. | [Ver documentação](./AT5-Front-End-Copilotado-com-IA/) · [Repositório](https://github.com/Caiquesanches07/S-ndromeProgresso) |
