@@ -14,11 +14,12 @@
 
 ## 👨‍💻 Sobre
 
-Atualmente curso o **2º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Tenho desenvolvido projetos acadêmicos voltados ao desenvolvimento front-end e à modelagem de banco de dados, colocando em prática conceitos de construção de páginas web, lógica de programação, organização de projetos e persistência de dados.
+Atualmente curso o **2º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Estou explorando diferentes áreas da tecnologia, principalmente desenvolvimento web, lógica de programação e banco de dados. Ainda não defini uma especialização; neste momento, quero fortalecer minha base, experimentar ferramentas e aprender por meio de projetos acadêmicos.
 
 - **Habilidades técnicas:** HTML5, CSS3, JavaScript, Bootstrap, SQL e MySQL.
 - **Ferramentas:** Git, GitHub e MySQL Workbench.
 - **Inteligência Artificial:** Gemini (utilizado como apoio na atividade AT5).
+- **Interesses atuais:** conhecer diferentes áreas da tecnologia antes de escolher uma especialização.
 - **Habilidades em desenvolvimento:** trabalho em equipe, organização, comunicação e resolução de problemas.
 - **Projeto acadêmico relevante:** participação no desenvolvimento da especificação de um sistema de gestão operacional e vendas para a Trimix Sorveteria, com foco em vendas, caixa, estoque e modelagem relacional.
 
