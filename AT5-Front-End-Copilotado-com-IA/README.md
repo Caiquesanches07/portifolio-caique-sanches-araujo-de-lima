@@ -13,7 +13,7 @@ A interface possui navegação baseada no Bootstrap, gráfico de barras constru�
 - **Framework:** Bootstrap 5.3.3.
 - **Gráficos:** Chart.js.
 - **JavaScript:** alternância e persistência da preferência de tema.
-- **IA:** atividade identificada como desenvolvimento front-end copilotado com IA; ferramenta e modelo específicos precisam ser informados conforme o uso realizado.
+- **Inteligência Artificial:** Gemini, utilizado como ferramenta de apoio no desenvolvimento front-end.
 
 ## 📊 Resultados e Aprendizados
 
@@ -36,12 +36,12 @@ A interface possui navegação baseada no Bootstrap, gráfico de barras constru�
 
 ## 🧠 Declaração de Uso Ético da IA
 
-Esta atividade foi identificada como um exercício de desenvolvimento front-end com apoio de inteligência artificial. O nome da ferramenta/modelo, as tarefas em que foi utilizada e as alterações efetivamente aproveitadas devem ser informados pelo autor. O ChatGPT também foi utilizado para organizar e redigir este README, com conferência da descrição em relação aos arquivos do projeto.
+O **Gemini** foi utilizado como ferramenta de apoio ao desenvolvimento front-end desta atividade. Seu uso foi complementar ao trabalho do estudante, que permanece responsável por revisar, testar e compreender o código e as alterações incorporadas. O ChatGPT também foi utilizado para organizar e redigir este README, com conferência da descrição em relação aos arquivos do projeto.
 
 ## 💻 Acesso ao Projeto
 
 - **Repositório do projeto:** [Caiquesanches07/S-ndromeProgresso](https://github.com/Caiquesanches07/S-ndromeProgresso)
-- **Deploy:** endereço público não confirmado nesta documentação.
+- **Deploy:** [Acessar o site no GitHub Pages](https://caiquesanches07.github.io/S-ndromeProgresso/).
 
 ---
 
