@@ -1,23 +1,24 @@
 # Caique Sanches Araujo de Lima
 
-> Estudante de Análise e Desenvolvimento de Sistemas — Universidade Cidade de São Paulo (UNICID)
+> Estudante do 2º semestre de Análise e Desenvolvimento de Sistemas — Universidade Cidade de São Paulo (UNICID)
 
 ---
 
 ## 📫 Contato & Redes Sociais
 
-- **LinkedIn:** a adicionar
-- **E-mail profissional:** a adicionar — informe somente um endereço que deseja divulgar publicamente.
-- **Currículo:** a adicionar — link para PDF ou site.
+- **LinkedIn:** [Caique Sanches](https://www.linkedin.com/in/caique-sanches-606a50339)
+- **E-mail:** [cacasan8@gmail.com](mailto:cacasan8@gmail.com)
+- **Currículo:** não informado no momento.
 
 ---
 
 ## 👨‍💻 Sobre
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Tenho desenvolvido projetos acadêmicos voltados ao desenvolvimento front-end e à modelagem de banco de dados, colocando em prática conceitos de construção de páginas web, lógica de programação, organização de projetos e persistência de dados.
+Atualmente curso o **2º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Tenho desenvolvido projetos acadêmicos voltados ao desenvolvimento front-end e à modelagem de banco de dados, colocando em prática conceitos de construção de páginas web, lógica de programação, organização de projetos e persistência de dados.
 
 - **Habilidades técnicas:** HTML5, CSS3, JavaScript, Bootstrap, SQL e MySQL.
 - **Ferramentas:** Git, GitHub e MySQL Workbench.
+- **Inteligência Artificial:** Gemini (utilizado como apoio na atividade AT5).
 - **Habilidades em desenvolvimento:** trabalho em equipe, organização, comunicação e resolução de problemas.
 - **Projeto acadêmico relevante:** participação no desenvolvimento da especificação de um sistema de gestão operacional e vendas para a Trimix Sorveteria, com foco em vendas, caixa, estoque e modelagem relacional.
 
@@ -51,7 +52,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na Universidade Cidade
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **AT1 — Confeitaria Shimas** | Site com cinco páginas em HTML5 e estilos em CSS. | [Ver projeto](./AT1-Paginas-HTML/) |
-| **AT2 — Deploy de Site** | Atividade de publicação de um site com GitHub Pages. A documentação está criada; os arquivos e o endereço publicado ainda precisam ser adicionados. | [Ver documentação](./AT2-Deploy-de-Site/) |
+| **AT2 — Deploy de Site** | Publicação de site pelo GitHub Pages. | [Documentação](./AT2-Deploy-de-Site/) · [Acessar site](https://caiquesanches07.github.io/S-ndromeProgresso/) |
 | **AT3 — Calculadora de IMC** | Aplicação que calcula o IMC a partir do peso e da altura informados e apresenta uma classificação. | [Ver projeto](./AT3-Calculadora-IMC/) |
 | **AT4 — Fase Extra: História dos Videogames** | Site com páginas sobre a história dos videogames, galeria, dados e contato, utilizando Bootstrap. | [Ver documentação](./AT4-Site-Multi-Paginas-Bootstrap/) · [Repositório](https://github.com/Caiquesanches07/historia-videogames) |
 | **AT5 — Síndrome do Progresso Forçado** | Site sobre vigilância algorítmica no trabalho remoto, com páginas informativas, gráfico e alternância de tema. | [Ver documentação](./AT5-Front-End-Copilotado-com-IA/) · [Repositório](https://github.com/Caiquesanches07/S-ndromeProgresso) |
@@ -96,4 +97,4 @@ portifolio-caique-sanches-araujo-de-lima/
     └── README.md
 ```
 
-> Os projetos AT4 e AT5 também possuem repositórios próprios, indicados nas respectivas descrições. As pastas AT2 e projeto-banco-dados ainda precisam receber os arquivos finais correspondentes.
+> Os projetos AT4 e AT5 também possuem repositórios próprios. A AT2 possui seu endereço de publicação informado, mas os arquivos-fonte do site não estão armazenados nesta pasta. A pasta `projeto-banco-dados` ainda precisa receber os documentos complementares do trabalho.
