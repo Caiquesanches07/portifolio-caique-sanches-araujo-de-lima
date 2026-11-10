@@ -4,7 +4,7 @@
 
 Esta atividade tem como objetivo praticar a publicação de um site na internet por meio do GitHub Pages, utilizando o GitHub para armazenar e disponibilizar os arquivos do projeto.
 
-**Situação atual no repositório:** esta pasta contém este README.md. O endereço público do GitHub Pages foi informado e está registrado abaixo. Os arquivos-fonte do site publicado não estão armazenados nesta pasta do portfólio.
+**Situação atual no repositório:** esta pasta contém este README.md. O endereço público do GitHub Pages foi informado e está registrado abaixo; entretanto, o caminho `S-ndromeProgresso` também identifica o projeto da AT5. Por isso, é importante confirmar se este endereço corresponde de fato à entrega da AT2. Os arquivos-fonte do site publicado não estão armazenados nesta pasta do portfólio.
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -22,7 +22,7 @@ O ChatGPT foi utilizado como apoio na organização e redação deste README. A 
 
 ## 💻 Deploy do Projeto
 
-**Endereço do GitHub Pages:** [Acessar o site publicado](https://caiquesanches07.github.io/S-ndromeProgresso/).
+**Endereço informado para a atividade:** [Abrir GitHub Pages](https://caiquesanches07.github.io/S-ndromeProgresso/). **Atenção:** confirmar se este é o link correto da AT2 ou se pertence somente à AT5.
 
 ---
 
