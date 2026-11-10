@@ -66,23 +66,34 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas na Universidade Cidade
 
 ## 🏗️ Estrutura do Repositório
 
-A organização abaixo facilita a navegação pelos projetos e suas documentações:
+A organização dos arquivos facilita a navegação pelos projetos e suas documentações:
 
 ```text
 portifolio-caique-sanches-araujo-de-lima/
 ├── README.md
 ├── AT1-Paginas-HTML/
-│   └── README.md
+│   ├── README.md
+│   ├── confeitaria.html
+│   ├── bolos.html
+│   ├── doces.html
+│   ├── salgados.html
+│   ├── receita.html
+│   └── style.css
 ├── AT2-Deploy-de-Site/
 │   └── README.md
 ├── AT3-Calculadora-IMC/
-│   └── README.md
+│   ├── README.md
+│   ├── index.html
+│   ├── js/script.js
+│   └── style.css/style.css
 ├── AT4-Site-Multi-Paginas-Bootstrap/
-│   └── README.md
+│   ├── README.md
+│   └── historia-videogames-main.zip
 ├── AT5-Front-End-Copilotado-com-IA/
-│   └── README.md
+│   ├── README.md
+│   └── S-ndromeProgresso-main.zip
 └── projeto-banco-dados/
     └── README.md
 ```
 
-> Os projetos AT4 e AT5 também possuem repositórios próprios, indicados nas respectivas descrições.
+> Os projetos AT4 e AT5 também possuem repositórios próprios, indicados nas respectivas descrições. As pastas AT2 e projeto-banco-dados ainda precisam receber os arquivos finais correspondentes.
