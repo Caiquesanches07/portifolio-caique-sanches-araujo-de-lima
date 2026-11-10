@@ -58,11 +58,11 @@ Gosto de aprender na prática, testar ideias e transformar o que estudo em proje
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| [Confeitaria Shimas — AT1](./AT1-Paginas-HTML/) | Site de confeitaria organizado em cinco páginas. | HTML5, CSS3 |
-| [Calculadora de IMC — AT3](./AT3-Calculadora-IMC/) | Calculadora que recebe peso e altura, calcula o IMC e apresenta uma classificação. | HTML5, CSS3, JavaScript |
+| [Confeitaria Shimas — AT1](https://github.com/Caiquesanches07/portifolio-caique-sanches-araujo-de-lima/tree/main/AT1-Paginas-HTML/) | Site de confeitaria organizado em cinco páginas. | HTML5, CSS3 |
+| [Calculadora de IMC — AT3](https://github.com/Caiquesanches07/portifolio-caique-sanches-araujo-de-lima/tree/main/AT3-Calculadora-IMC/) | Calculadora que recebe peso e altura, calcula o IMC e apresenta uma classificação. | HTML5, CSS3, JavaScript |
 | [História dos Videogames — AT4](https://github.com/Caiquesanches07/historia-videogames) | Site com páginas sobre a história dos videogames, galeria e curiosidades. | HTML5, CSS3, Bootstrap |
 | [Síndrome do Progresso Forçado — AT5](https://github.com/Caiquesanches07/S-ndromeProgresso) | Site informativo sobre vigilância algorítmica no trabalho remoto, com gráfico e alternância de tema. | HTML5, CSS3, Bootstrap, JavaScript, Chart.js |
-| [Trimix Sorveteria — Banco de Dados](./projeto-banco-dados/) | Documentação de requisitos e regras de negócio para um sistema de gestão de vendas, caixa e estoque. | Modelagem de dados, SQL, MySQL |
+| [Trimix Sorveteria — Banco de Dados](https://github.com/Caiquesanches07/portifolio-caique-sanches-araujo-de-lima/tree/main/projeto-banco-dados/) | Documentação de requisitos e regras de negócio para um sistema de gestão de vendas, caixa e estoque. | Modelagem de dados, SQL, MySQL |
 
 > Estes projetos fazem parte da minha trajetória de aprendizado. A documentação indica o escopo de cada atividade e não significa que todos os projetos estejam publicados como aplicações em produção.
 
