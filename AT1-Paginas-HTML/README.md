@@ -1,41 +1,47 @@
-# 🧁 AT1 — Confeitaria Shimas
+# AT1 — Páginas HTML | Confeitaria Shimas
 
-## 📝 Descrição do Projeto
+Projeto acadêmico com cinco páginas HTML conectadas por menu de navegação e uma folha de estilos CSS compartilhada.
 
-Este projeto consiste em um site básico de confeitaria, desenvolvido como atividade acadêmica de desenvolvimento front-end. A navegação é dividida em cinco páginas: página inicial da Confeitaria Shimas, bolos, doces, salgados e receitas.
+## Acesso para avaliação
 
-O menu permite navegar entre as páginas e o CSS define estilos visuais e imagens de fundo específicas para cada seção.
+**[Abrir a AT1 no GitHub Pages](https://caiquesanches07.github.io/portifolio-caique-sanches-araujo-de-lima/AT1-Paginas-HTML/)**
 
-## 🚀 Tecnologias Utilizadas
+Se o GitHub Pages ainda não estiver habilitado no repositório, abra [confeitaria.html](./confeitaria.html) para consultar o código-fonte e use a visualização local indicada abaixo.
 
-- **Estrutura:** HTML5
-- **Estilização:** CSS3
-- **Organização:** páginas HTML separadas e navegação por links internos.
+## Páginas
 
-## 📊 Resultados e Aprendizados
+- **Início:** apresentação da Confeitaria Shimas.
+- **Bolos:** exemplos de sabores.
+- **Doces:** apresentação de doces.
+- **Salgados:** apresentação de opções salgadas.
+- **Receitas:** ingredientes e modo de preparo.
 
-- Organização de um site em múltiplas páginas.
-- Criação de menus de navegação com links entre arquivos HTML.
-- Aplicação de estilos por meio de classes CSS específicas para cada página.
-- Prática da estrutura básica de documentos HTML.
+## Tecnologias e conceitos
 
-## 🗂️ Arquivos do Projeto
+- HTML5: estrutura de documentos, títulos, parágrafos, listas, links e navegação.
+- CSS3: cores, tipografia, espaçamento, layout responsivo e estados de interação.
+- Organização em múltiplos documentos HTML com CSS externo compartilhado.
 
-- `confeitaria.html` — página inicial.
-- `bolos.html` — seção de bolos.
-- `doces.html` — seção de doces.
-- `salgados.html` — seção de salgados.
-- `receita.html` — seção de receitas.
-- `style.css` — estilos visuais.
+## Estrutura
 
-## 🧠 Declaração de Uso Ético da IA
+```text
+AT1-Paginas-HTML/
+├── index.html
+├── confeitaria.html
+├── bolos.html
+├── doces.html
+├── salgados.html
+├── receita.html
+├── style.css
+└── README.md
+```
 
-O ChatGPT foi utilizado como apoio na organização e redação deste README. A descrição foi conferida com os arquivos disponíveis no repositório. Esta declaração se refere à documentação; qualquer uso de IA na implementação do código deve ser informado de acordo com as ferramentas e finalidades realmente utilizadas na atividade.
+## Como visualizar localmente
 
-## 💻 Acesso ao Projeto
+Baixe ou clone o repositório e abra `AT1-Paginas-HTML/index.html` no navegador. O arquivo redireciona para a página inicial `confeitaria.html`.
 
-O projeto pode ser consultado diretamente pelos arquivos desta pasta. Não há um endereço de deploy público registrado nesta documentação.
+## Objetivo de aprendizagem
 
----
+Praticar a criação de páginas HTML, a navegação entre arquivos locais e a aplicação de estilos com CSS externo compartilhado.
 
-[Voltar ao portfólio principal](../README.md)
+[Voltar ao portfólio](../README.md)
