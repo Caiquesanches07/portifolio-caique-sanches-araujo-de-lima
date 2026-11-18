@@ -1,29 +1,39 @@
-# 🚀 AT2 — Deploy de Site
+# AT2 — Deploy de Site
 
-## 📝 Descrição do Projeto
+## Objetivo
 
-Esta atividade tem como objetivo praticar a publicação de um site na internet por meio do GitHub Pages, utilizando o GitHub para armazenar e disponibilizar os arquivos do projeto.
+Registrar a prática de publicação de um site na internet utilizando o GitHub Pages, serviço de hospedagem estática integrado ao GitHub.
 
-**Situação atual no repositório:** esta pasta contém este README.md. O endereço público do GitHub Pages foi informado e está registrado abaixo; entretanto, o caminho `S-ndromeProgresso` também identifica o projeto da AT5. Por isso, é importante confirmar se este endereço corresponde de fato à entrega da AT2. Os arquivos-fonte do site publicado não estão armazenados nesta pasta do portfólio.
+## Acesso para avaliação
 
-## 🚀 Tecnologias e Ferramentas
+**[Abrir a página de apresentação da AT2 no GitHub Pages](https://caiquesanches07.github.io/portifolio-caique-sanches-araujo-de-lima/AT2-Deploy-de-Site/)**
 
-- **Versionamento e hospedagem do código:** Git e GitHub.
-- **Publicação pretendida:** GitHub Pages.
-- **Tecnologias do site publicado:** HTML5, CSS3, JavaScript e Bootstrap.
+O endereço de site publicado informado anteriormente foi: [https://caiquesanches07.github.io/S-ndromeProgresso/](https://caiquesanches07.github.io/S-ndromeProgresso/).
 
-## 📊 Resultados e Aprendizados
+> **Atenção:** esse endereço também aparece associado à AT5 no portfólio. Não é possível confirmar apenas pelos arquivos deste repositório que ele seja a entrega correta da AT2. A página desta pasta deixa essa associação explícita para evitar apresentar uma evidência incorreta ao professor.
 
-A atividade registra a publicação de um site por meio do GitHub Pages. O endereço de acesso foi fornecido pelo estudante; os arquivos-fonte permanecem no repositório do projeto publicado, não nesta pasta.
+## Como o deploy funciona
 
-## 🧠 Declaração de Uso Ético da IA
+1. Os arquivos do site são organizados em um repositório GitHub.
+2. O código é enviado para a branch configurada.
+3. Em **Settings → Pages**, seleciona-se a origem de publicação (branch e pasta).
+4. O GitHub Pages publica o conteúdo estático em um endereço público.
 
-O ChatGPT foi utilizado como apoio na organização e redação deste README. A documentação não atribui ao projeto funcionalidades ou resultados que ainda não estão comprovados pelos arquivos disponíveis. Qualquer uso de IA na criação do site deverá ser declarado de acordo com a ferramenta e a finalidade realmente utilizadas.
+## Tecnologias e ferramentas
 
-## 💻 Deploy do Projeto
+- Git e GitHub para versionamento e hospedagem do código.
+- GitHub Pages para publicação.
+- HTML e CSS para páginas estáticas; JavaScript quando utilizado pelo projeto.
 
-**Endereço informado para a atividade:** [Abrir GitHub Pages](https://caiquesanches07.github.io/S-ndromeProgresso/). **Atenção:** confirmar se este é o link correto da AT2 ou se pertence somente à AT5.
+## Evidências para avaliação
 
----
+- Repositório com os arquivos-fonte.
+- Configuração de publicação em **Settings → Pages**.
+- Endereço público acessível.
+- Histórico de commits da atividade.
+
+## Transparência
+
+A pasta contém uma página de apresentação e esta documentação. Os arquivos-fonte do site indicado no endereço externo não estão armazenados nesta pasta. Confirme se o endereço informado corresponde à entrega da AT2 antes de enviar ao professor.
 
 [Voltar ao portfólio principal](../README.md)
