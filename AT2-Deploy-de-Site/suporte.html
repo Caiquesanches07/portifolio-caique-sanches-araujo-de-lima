@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Página de suporte e contato da consultoria em Inteligência Artificial.">
+  <title>Suporte | Lohany Shimabukuro</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="nav-wrap">
+      <a class="brand" href="index.html"><span class="brand-mark">LS</span><span>Lohany Shimabukuro<small>Consultoria em Inteligência Artificial</small></span></a>
+      <nav class="nav-links" aria-label="Navegação principal">
+        <a href="index.html">Principal</a><a href="menu.html">Menu</a><a href="suporte.html" aria-current="page">Suporte</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="section">
+    <div class="container">
+      <p class="breadcrumb"><a href="index.html">Principal</a> / Suporte</p>
+      <div class="section-heading">
+        <p class="eyebrow">Atendimento</p>
+        <h1>Como podemos ajudar?</h1>
+        <p>Utilize o formulário para preparar uma mensagem ou consulte os canais de contato apresentados no material-base.</p>
+      </div>
+
+      <div class="split">
+        <section class="content-panel">
+          <h2>Envie sua mensagem</h2>
+          <form id="support-form">
+            <div class="form-grid">
+              <div class="field">
+                <label for="nome">Nome</label>
+                <input id="nome" name="nome" type="text" autocomplete="name" required>
+              </div>
+              <div class="field">
+                <label for="email">E-mail</label>
+                <input id="email" name="email" type="email" autocomplete="email" required>
+              </div>
+              <div class="field field-full">
+                <label for="assunto">Assunto</label>
+                <select id="assunto" name="assunto" required>
+                  <option value="">Selecione um assunto</option>
+                  <option>Consultoria em Inteligência Artificial</option>
+                  <option>Automação de processos</option>
+                  <option>Governança de dados</option>
+                  <option>Treinamentos</option>
+                  <option>Outro assunto</option>
+                </select>
+              </div>
+              <div class="field field-full">
+                <label for="mensagem">Mensagem</label>
+                <textarea id="mensagem" name="mensagem" placeholder="Escreva sua dúvida ou solicitação..." required></textarea>
+              </div>
+              <div class="field field-full">
+                <button class="button button-primary" type="submit">Preparar mensagem</button>
+              </div>
+            </div>
+            <p class="form-note" id="form-feedback" aria-live="polite">Ao enviar, seu aplicativo de e-mail será aberto com a mensagem preenchida. Não é necessário enviar dados pessoais sensíveis.</p>
+          </form>
+        </section>
+
+        <aside class="content-panel">
+          <h2>Contato</h2>
+          <p>O material-base da atividade informa o seguinte endereço de e-mail:</p>
+          <p><strong><a href="mailto:contato@exemplo.com">contato@exemplo.com</a></strong></p>
+          <div class="callout">Este site é uma atividade acadêmica estática. O formulário utiliza o aplicativo de e-mail do dispositivo; não há servidor ou banco de dados recebendo as mensagens.</div>
+          <h3>Navegação</h3>
+          <p>Use o menu superior para voltar à página principal ou consultar as áreas de atuação.</p>
+          <a class="button button-primary" href="menu.html">Consultar menu de serviços</a>
+        </aside>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-wrap"><span>AT2 — Página de suporte</span><a href="../README.md">Voltar ao portfólio</a></div>
+  </footer>
+</body>
+</html>
