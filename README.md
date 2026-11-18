@@ -1,80 +1,48 @@
 # Caique Sanches Araujo de Lima
 
-> Estudante do 2º semestre de Análise e Desenvolvimento de Sistemas — Universidade Cidade de São Paulo (UNICID)
+> Estudante de Análise e Desenvolvimento de Sistemas — Universidade Cidade de São Paulo (UNICID).
 
----
+## Portfólio acadêmico
 
-## 📫 Contato & Redes Sociais
+Este repositório reúne atividades e projetos desenvolvidos durante a graduação.
+
+### Desenvolvimento Front-End para Web
+
+| Atividade | Projeto | Acesso |
+|---|---|---|
+| **AT1 — Páginas HTML** | Confeitaria Shimas: cinco páginas conectadas por navegação e CSS externo. | [Abrir projeto no repositório](./AT1-Paginas-HTML/) · [Página inicial HTML](./AT1-Paginas-HTML/confeitaria.html) |
+| **AT2 — Deploy de Site** | Documentação e página de apresentação da atividade de publicação. | [Abrir pasta da AT2](./AT2-Deploy-de-Site/) · [Página de apresentação](./AT2-Deploy-de-Site/index.html) |
+| **AT3 — Calculadora de IMC** | Aplicação de cálculo de IMC. | [Ver projeto](./AT3-Calculadora-IMC/) |
+| **AT4 — História dos Videogames** | Site com múltiplas páginas utilizando Bootstrap. | [Documentação](./AT4-Site-Multi-Paginas-Bootstrap/) |
+| **AT5 — Síndrome do Progresso Forçado** | Projeto sobre vigilância algorítmica no trabalho remoto. | [Documentação](./AT5-Front-End-Copilotado-com-IA/) · [Repositório informado](https://github.com/Caiquesanches07/S-ndromeProgresso) |
+
+### Modelagem de Banco de Dados
+
+| Projeto | Descrição | Acesso |
+|---|---|---|
+| **Trimix Sorveteria** | Projeto acadêmico de modelagem de banco de dados para gestão operacional e vendas. | [Ver projeto](./projeto-banco-dados/) |
+
+## Sobre
+
+Atualmente estudo HTML5, CSS3, JavaScript, Bootstrap, SQL e MySQL. Utilizo Git e GitHub para versionamento e organização dos projetos acadêmicos.
 
 - **LinkedIn:** [Caique Sanches](https://www.linkedin.com/in/caique-sanches-606a50339)
 - **E-mail:** [cacasan8@gmail.com](mailto:cacasan8@gmail.com)
-- **Currículo:** não informado no momento.
 
----
+## Como avaliar os projetos
 
-## 👨‍💻 Sobre
+1. Abra a pasta da atividade desejada.
+2. Consulte o README para conhecer o objetivo e a estrutura.
+3. Para visualizar um site localmente, baixe o repositório e abra o respectivo arquivo `index.html` ou `confeitaria.html` no navegador.
+4. Os links de GitHub Pages só estarão ativos depois que a publicação estiver habilitada em **Settings → Pages** no repositório.
 
-Atualmente curso o **2º semestre de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Estou explorando diferentes áreas da tecnologia, principalmente desenvolvimento web, lógica de programação e banco de dados. Ainda não defini uma especialização; neste momento, quero fortalecer minha base, experimentar ferramentas e aprender por meio de projetos acadêmicos.
-
-- **Habilidades técnicas:** HTML5, CSS3, JavaScript, Bootstrap, SQL e MySQL.
-- **Ferramentas:** Git, GitHub e MySQL Workbench.
-- **Inteligência Artificial:** Gemini (utilizado como apoio na atividade AT5).
-- **Interesses atuais:** conhecer diferentes áreas da tecnologia antes de escolher uma especialização.
-- **Habilidades em desenvolvimento:** trabalho em equipe, organização, comunicação e resolução de problemas.
-- **Projeto acadêmico relevante:** participação no desenvolvimento da especificação de um sistema de gestão operacional e vendas para a Trimix Sorveteria, com foco em vendas, caixa, estoque e modelagem relacional.
-
----
-
-## 🛠 Minhas Ferramentas e Tecnologias
-
-### 💻 Desenvolvimento Web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🔧 Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📂 Portfólio de Projetos
-
-### 🧑‍💻 Desenvolvimento Front-End para Web
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **AT1 — Confeitaria Shimas** | Site com cinco páginas em HTML5 e estilos em CSS. | [Ver projeto](./AT1-Paginas-HTML/) |
-| **AT2 — Deploy de Site** | Atividade de publicação com GitHub Pages; endereço fornecido pelo estudante, ainda aguardando confirmação de associação à AT2. | [Documentação](./AT2-Deploy-de-Site/) · [Link informado](https://caiquesanches07.github.io/S-ndromeProgresso/) |
-| **AT3 — Calculadora de IMC** | Aplicação que calcula o IMC a partir do peso e da altura informados e apresenta uma classificação. | [Ver projeto](./AT3-Calculadora-IMC/) |
-| **AT4 — Fase Extra: História dos Videogames** | Site com páginas sobre a história dos videogames, galeria, dados e contato, utilizando Bootstrap. | [Ver documentação](./AT4-Site-Multi-Paginas-Bootstrap/) · [Repositório](https://github.com/Caiquesanches07/historia-videogames) |
-| **AT5 — Síndrome do Progresso Forçado** | Site sobre vigilância algorítmica no trabalho remoto, com páginas informativas, gráfico e alternância de tema. | [Ver documentação](./AT5-Front-End-Copilotado-com-IA/) · [Repositório](https://github.com/Caiquesanches07/S-ndromeProgresso) |
-
-### 🗃️ Modelagem de Banco de Dados
-
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Operacional e Vendas — Trimix Sorveteria** | Especificação de requisitos e regras de negócio para um sistema de vendas, caixa e estoque com MySQL. | [Ver projeto](./projeto-banco-dados/) |
-
----
-
-## 🏗️ Estrutura do Repositório
-
-A organização dos arquivos facilita a navegação pelos projetos e suas documentações:
+## Estrutura principal
 
 ```text
 portifolio-caique-sanches-araujo-de-lima/
 ├── README.md
 ├── AT1-Paginas-HTML/
-│   ├── README.md
+│   ├── index.html
 │   ├── confeitaria.html
 │   ├── bolos.html
 │   ├── doces.html
@@ -82,20 +50,12 @@ portifolio-caique-sanches-araujo-de-lima/
 │   ├── receita.html
 │   └── style.css
 ├── AT2-Deploy-de-Site/
+│   ├── index.html
 │   └── README.md
 ├── AT3-Calculadora-IMC/
-│   ├── README.md
-│   ├── index.html
-│   ├── js/script.js
-│   └── style.css/style.css
 ├── AT4-Site-Multi-Paginas-Bootstrap/
-│   ├── README.md
-│   └── historia-videogames-main.zip
 ├── AT5-Front-End-Copilotado-com-IA/
-│   ├── README.md
-│   └── S-ndromeProgresso-main.zip
 └── projeto-banco-dados/
-    └── README.md
 ```
 
-> Os projetos AT4 e AT5 também possuem repositórios próprios. A AT2 possui seu endereço de publicação informado, mas os arquivos-fonte do site não estão armazenados nesta pasta. A pasta `projeto-banco-dados` ainda precisa receber os documentos complementares do trabalho.
+> **Nota sobre a AT2:** o endereço público informado anteriormente (`S-ndromeProgresso`) também está associado à AT5 no portfólio. A relação desse endereço com a AT2 precisa ser confirmada antes da entrega para avaliação.
